@@ -1,0 +1,25 @@
+.main-container{
+    height: calc(100vh - 56px);
+    background-image: url('./Images/179739088.png');
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.login-card , .signup-card{
+    max-width: 300px;
+    min-width: 500px !important;
+        background-color: rgba(255, 255, 255, 0.489)!important;
+        backdrop-filter: blur(50px)!important;
+       
+}
+
+.book-main-card::-webkit-scrollbar{
+    display: none !important;
+}
+
+
+.signup-card{
+    max-width: 400px;
+    min-width: 800px !important;
+}
+
