@@ -1,0 +1,2 @@
+ This project highlights key features including user authentication, a comprehensive book catalog, search functionality, streamlined checkout, and administrative tools for order and inventory management. The report outlines the development process, challenges overcome, and the system’s potential to reshape the online book retail landscape by enhancing user
+experience and facilitating effective bookshop operations.
